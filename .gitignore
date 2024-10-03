@@ -1,0 +1,7 @@
+.idea
+.venv
+.tmp.driveupload
+logs
+Sync_yandex_disk
+metadata_local_cache.json
+.env
